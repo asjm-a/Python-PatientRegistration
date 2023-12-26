@@ -1,0 +1,6 @@
+VC1	Bruce Wayne	1	CZ	
+VC2	Clark Kent	2	DM	
+VC1	Wonder Woman	3	AF	
+VC2	Peter Parker	4	DM	
+VC1	Captian America	5	BV	
+VC1	Iron Man	6	EC	
